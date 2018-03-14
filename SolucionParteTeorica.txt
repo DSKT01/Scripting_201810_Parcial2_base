@@ -1,0 +1,11 @@
+1) Debe ser elegido el algoritmo de orden cuadratico O(n^2) ya que a pesar de ser complejo, no estan complejo y pesado como un algoritmo de orden factorial O(n!)
+
+2)
+	a) Singleton: ya que permite almacenar la informacion y revelarla cuando sea nacesario, cumpliendo la labor de juez
+	b) Factory: ya que permite crear diferntes instancias dependiendo de lo que necesite el juego
+	c)
+	d) Pooling: ya que permite mantener la zona en la que se encuentra el jugador poblada sin requerir mucho al sistema, ademas si es necesario se puede instanciar un objeto extra
+
+3) Usaria colas, porque me permite trabajar SOLO con el primer objeto de cada cola sin necesidad de mover elementos en un array o una lista
+4) Usaria una clase abstracta por cada raza, una interface ´por cada clase y 2 clases de genero por cada raza, la clase abstaracta de la raza seria padre de sus 2 generos y a su vez adoptaria las firmas de las interfaces que representan las clases que esa raza puede usar
+
