@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scripting_201810_Parcial2_base", "Scripting_201810_Parcial2_base.csproj", "{BFE9AEBE-B91E-065F-1F72-253DC0DF5147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE9AEBE-B91E-065F-1F72-253DC0DF5147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE9AEBE-B91E-065F-1F72-253DC0DF5147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE9AEBE-B91E-065F-1F72-253DC0DF5147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE9AEBE-B91E-065F-1F72-253DC0DF5147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
