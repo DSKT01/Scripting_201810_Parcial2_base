@@ -1,0 +1,26 @@
+Componente Teórico (1.6)
+
+1. OK (0.2)
+
+2. a) OK (0.25)
+2. b) OK (0.25)
+2. c) No hay respuesta (0.0)
+2. d) Aunque es válido, hay algo que no elaboras. Bajo qué criterios considerás que el pool es suficiente? Qué pasa si tu jugador se queda quieto en el área y se consumen todos los carros? Crearías "un objeto extra" cada vez, lo cual haría que el pool solo pierda su gracia. Solo por eso, haría falta un factory que instancie los carros, y esos guardarlos en el pool. (0.2)
+
+3. OK (0.5)
+
+4. Para qué hacer clases de cada género si esta propiedad no limita la funcionalidad del personaje? (0.2)
+
+Componente Práctico (1.35)
+
+1. En general la funcionalidad está, pero hay un asunto. Cada instancia de la bala tiene tres componentes (dos de ellos son Bullet2). No es necesario. Cada bala de un tipo debe tener únicamente su componente relacionado. Esto es un código bastante sucio. Una alternativa a la interfaz es que toda la funcionalidad estuviera en la clase Bullet y, de acuerdo al valor del enmumerado, ejecutar segmentos de código (0.6)
+
+2. OK (0.75)
+
+3. No hay generador de enemigos (0.0)
+
+4. Los enemigos no se mueven (0.0)
+
+* Una vez mato a todos los enemigos no pasa nada. Se pidió un generador de enemigos, precisamente porque el juego no tiene definido un final, excepto que los enemigos lleguen detrás del jugador.
+
+Total: 2.95
