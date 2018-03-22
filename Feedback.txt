@@ -21,6 +21,10 @@ Componente Práctico (1.35)
 
 4. Los enemigos no se mueven (0.0)
 
+*** ORIGINAL ***
 * Una vez mato a todos los enemigos no pasa nada. Se pidió un generador de enemigos, precisamente porque el juego no tiene definido un final, excepto que los enemigos lleguen detrás del jugador.
+****************
+*** EDIT ***
+* Adicionalmente existe pantalla de game over cuando los enemigos matan al jugador, pero esta no se visualiza según lo pedido, que es cuando algún enemigo llegue detrás del jugador
 
 Total: 2.95
